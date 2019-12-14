@@ -1,0 +1,10 @@
+D:\Semester 7\IPT\Assignment\Assignment_2\k163810_Q2\k163810_Q2\bin\Release\k163810_Q2.exe.config
+D:\Semester 7\IPT\Assignment\Assignment_2\k163810_Q2\k163810_Q2\bin\Release\k163810_Q2.exe
+D:\Semester 7\IPT\Assignment\Assignment_2\k163810_Q2\k163810_Q2\bin\Release\k163810_Q2.pdb
+D:\Semester 7\IPT\Assignment\Assignment_2\k163810_Q2\k163810_Q2\obj\Release\k163810_Q2.csprojAssemblyReference.cache
+D:\Semester 7\IPT\Assignment\Assignment_2\k163810_Q2\k163810_Q2\obj\Release\k163810_Q2.Email_Composer.resources
+D:\Semester 7\IPT\Assignment\Assignment_2\k163810_Q2\k163810_Q2\obj\Release\k163810_Q2.Properties.Resources.resources
+D:\Semester 7\IPT\Assignment\Assignment_2\k163810_Q2\k163810_Q2\obj\Release\k163810_Q2.csproj.GenerateResource.cache
+D:\Semester 7\IPT\Assignment\Assignment_2\k163810_Q2\k163810_Q2\obj\Release\k163810_Q2.csproj.CoreCompileInputs.cache
+D:\Semester 7\IPT\Assignment\Assignment_2\k163810_Q2\k163810_Q2\obj\Release\k163810_Q2.exe
+D:\Semester 7\IPT\Assignment\Assignment_2\k163810_Q2\k163810_Q2\obj\Release\k163810_Q2.pdb

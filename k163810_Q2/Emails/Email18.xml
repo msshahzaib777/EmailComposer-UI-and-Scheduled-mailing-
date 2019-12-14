@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EmailMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <To>ms.shahzaib777@gmail.com</To>
+  <Subject>after stopping and restarting1</Subject>
+  <MessageBody>Checking Email Sender 1
+</MessageBody>
+</EmailMessage>
